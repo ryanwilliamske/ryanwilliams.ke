@@ -1,0 +1,23 @@
+{
+  "name": "ryanwilliams.ke",
+  "version": "1.0.0",
+  "description": "My portfloio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanwilliamske/ryanwilliams.ke.git"
+  },
+  "author": "Ryan Williams Wabwoba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanwilliamske/ryanwilliams.ke/issues"
+  },
+  "homepage": "https://github.com/ryanwilliamske/ryanwilliams.ke#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "express": "^4.17.1"
+  }
+}
